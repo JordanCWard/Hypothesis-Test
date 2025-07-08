@@ -1,7 +1,0 @@
-# Hypothesis Test
-
-
-``` python
-
-```
-<br>
