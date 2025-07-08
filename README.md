@@ -1,4 +1,4 @@
-# Hypothesis-Test
+# Hypothesis Test
 
 
 ``` python
